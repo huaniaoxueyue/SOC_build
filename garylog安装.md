@@ -3,7 +3,7 @@
 ## mongodb安裝（tgz）方式
 **环境参数**
 ```
-centos7 x86
+centos7 x86-64
 使用root用户修改配置文件：/etc/security/limits.conf
 增加如下内容
 
